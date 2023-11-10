@@ -1,0 +1,47 @@
+.App {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+#title{
+  margin-top:10px;
+  font-weight: 'bold';
+  font-size: 35px;
+}
+.alignment{
+  display: flex;
+  justify-content: center;
+}
+.form{
+margin-top: -19px;
+
+}
+.mb-3{
+  width: 300px;
+  margin-top: 10px;
+}
+
+.checkbox{
+  margin-top: 10px;
+ margin-left: -180px;
+  display: flex;
+  justify-content: center;
+}
+
+#txt-1{
+margin-top: -2px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.button-style{
+ margin-top: 0px;
+ width: 300px;
+ padding: 7px;
+ background-color: blueviolet;
+
+}
+.footer{
+  margin-top: 90px;
+}
